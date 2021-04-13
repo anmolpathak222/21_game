@@ -1,1 +1,3 @@
-# 21 game
+# 21 gam
+oijo
+for i in rane
